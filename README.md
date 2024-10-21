@@ -1,5 +1,12 @@
 <h1 align="center"> WorkLynk -Professional Networking Platform ✨</h1>
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/a9/8e/8f/a98e8ff150958443ced2a76411af6343.jpg" alt="Pinterest Image" width="400">
+</p>
+
+
+
+
 ### Deployed Live Link https://worklynk.onrender.com
 
 About This Project:
