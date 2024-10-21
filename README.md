@@ -1,4 +1,4 @@
-<h1 align="center"> WorkLynk -Linkedin Clone ✨</h1>
+<h1 align="center"> WorkLynk -Professional Networking Platform ✨</h1>
 
 
 
